@@ -1,0 +1,10 @@
+define y''=f(y,y',x)
+define params and boundary conditions.
+guess y'(a)
+while(innaccurate answer)
+	evolve to y(b)
+	if(accurate) exit.
+	if(low) guess++
+	if(high) guess--
+	
+

@@ -1,0 +1,7 @@
+#include "DiffEqns.h"
+#include "../constants.h"
+
+double y2nd(double y, double vy, double t)
+{
+	return GEE;
+}

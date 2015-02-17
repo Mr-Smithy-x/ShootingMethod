@@ -1,0 +1,9 @@
+The shooting method converts a boundary value problem and convert it to 
+an initial value problem. 
+
+So given y''=f(y,y',x).  Ex(y''=g)
+and y(a),y(b).  
+
+Guess y'(a) has to be to satisfy y(b).
+If we pick the right y'(a) and get y(b) 
+we have to have the correct y(x).  
